@@ -104,3 +104,4 @@ public class StudentManager {
         } while (choice != 4);
     }
 }
+system.out.println("hello");
